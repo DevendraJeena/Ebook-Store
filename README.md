@@ -86,7 +86,7 @@ Here are some screenshots of the project in action:
 
 ### 📦 Payment Page
 ![Payment](preview/payment.png)
-![Success](preview/Success.png)
+![Success](preview/success.png)
 
 ---
 
